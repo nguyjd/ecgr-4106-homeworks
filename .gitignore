@@ -1,1 +1,10 @@
 */.ipynb_checkpoints
+*.gz
+homework 2/cifar10/cifar-10-batches-py/test_batch
+*.html
+homework 2/cifar10/cifar-10-batches-py/data_batch_5
+homework 2/cifar10/cifar-10-batches-py/data_batch_4
+homework 2/cifar10/cifar-10-batches-py/data_batch_3
+homework 2/cifar10/cifar-10-batches-py/data_batch_2
+homework 2/cifar10/cifar-10-batches-py/data_batch_1
+homework 2/cifar10/cifar-10-batches-py/batches.meta
